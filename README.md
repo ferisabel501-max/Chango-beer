@@ -1,2 +1,2 @@
-# Chango-beerindex.html
+# Chango-beer
 Videojuego City
